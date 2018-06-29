@@ -2,6 +2,9 @@
 Django newssubscriber
 =====================
 
+!!!under develop!!!
+-------------------
+
 A small email basied newsletter. More information comming soon.
 
 It will by push to https://pypi.org soon. And maybe I write some help for other
@@ -25,4 +28,3 @@ Quick start
 
 4. Start the development server and visit http://127.0.0.1:8000/admin/
    to configurat the newssubscriber (you'll need the Admin app enabled).
-   
